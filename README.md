@@ -23,7 +23,7 @@ To use the ELFG Language Generator, follow these steps:
 2. if you want more translation, you have to add sentences or words in the differents text files using the correct languages then rerun the code 
 
 					Output
-The code is going to create 2 differents Json files, one that contains for every english word the 4 matching words for English,french,italian and georgian and another one that contains the same things plus the new words translation in ELFG.
+The code is going to create 2 differents Json files, one that contains for every English word the 4 matching words for English, French, Italian and Georgian and another one that contains the same things plus the new words translation in ELFG.
 Every time you add new sentences/words in the texts files you are going to get the new words translation in ELFG at the end of the json file, if you delete the Json files, then you will get others translation of ELFG. 
 Then the code is going to provide also a new text file that contains the translation of our texts files in the new ELFG languages, again if the dictionary is deleted then the new file will give other sentences.   
 
