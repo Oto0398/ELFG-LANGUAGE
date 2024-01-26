@@ -18,6 +18,7 @@ pip install googletrans==3.1.0.a0
 					Usage
 
 To use the ELFG Language Generator, follow these steps:
+*make sure to have internet connection before running the code*
 1. Run the script main.py using Python:
 
 2. if you want more translation, you have to add sentences or words in the differents text files using the correct languages then rerun the code 
