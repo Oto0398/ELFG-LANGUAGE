@@ -59,10 +59,12 @@ def add_sentence():
 SCRIPT
 """
 
+#add sentence to text file if user want too
 #read the english text file
-#add sentence if user want too
-english_words = read_file("eng.txt")
 english_words = add_sentence()
+english_words = read_file("eng.txt")
+print("English words:", english_words)
+
 
 
 #initializes a defaultdict called translations to store the translations.
