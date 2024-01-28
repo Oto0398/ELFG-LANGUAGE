@@ -13,5 +13,3 @@ umbrella
 sky
 floor
 violon sound is beautiful
-a beautiful cat
-beautiful cat is running down the street
