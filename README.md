@@ -8,10 +8,11 @@ The ELFG Language Generator is a Python-based tool designed to create a unique l
 1. To run the ELFG language generator you will need to have Python installed on your system. 
 2. Create a new folder
 3. copy past the code (main.py) with the 4 text file provided in the folder
-4. Create a new python environment for this folder
-5. Install the needed modules: 
+<img width="220" alt="Screenshot 2024-01-28 at 16 40 11" src="https://github.com/Oto0398/ELFG-LANGUAGE/assets/149970372/ab9c6f9f-601f-403f-b4fa-eb1c9d124488">
+5. Create a new python environment for this folder
+6. Install the needed modules: 
 `os`, `json`, `collections.defaultdict`, `random`, and `pathlib.Path`.
-6. AND install specific version of `googletrans` library: 
+7. AND install specific version of `googletrans` library: 
 pip install googletrans==3.1.0.a0
 
 
