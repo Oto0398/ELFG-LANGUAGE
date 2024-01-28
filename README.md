@@ -8,7 +8,8 @@ The ELFG Language Generator is a Python-based tool designed to create a unique l
 1. To run the ELFG language generator you will need to have Python installed on your system. 
 2. Create a new folder
 3. copy past the code (main.py) with the 4 text file provided in the folder
-<img width="220" alt="Screenshot 2024-01-28 at 16 40 11" src="https://github.com/Oto0398/ELFG-LANGUAGE/assets/149970372/ab9c6f9f-601f-403f-b4fa-eb1c9d124488">
+<img width="217" alt="Screenshot 2024-01-28 at 16 57 54" src="https://github.com/Oto0398/ELFG-LANGUAGE/assets/149970372/6aa8f79c-8f5c-4a92-a481-868be1a2f9ce">
+
 5. Create a new python environment for this folder
 6. Install the needed modules: 
 `os`, `json`, `collections.defaultdict`, `random`, and `pathlib.Path`.
@@ -27,6 +28,8 @@ To use the ELFG Language Generator, follow these steps:
 
 					Output
 The code is going to create 2 differents Json files, one that contains for every English word the 4 matching words for English, French, Italian and Georgian and another one that contains the same things plus the new words translation in ELFG.
+<img width="220" alt="Screenshot 2024-01-28 at 16 40 11" src="https://github.com/Oto0398/ELFG-LANGUAGE/assets/149970372/ab9c6f9f-601f-403f-b4fa-eb1c9d124488">
+
 Every time you add new sentences/words in the texts files you are going to get the new words translation in ELFG at the end of the json file, if you delete the Json files, then you will get others translation of ELFG. 
 Then the code is going to provide also a new text file that contains the translation of our texts files in the new ELFG languages, again if the dictionary is deleted then the new file will give other sentences.   
 
