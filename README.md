@@ -7,8 +7,8 @@ The ELFG Language Generator is a Python-based tool designed to create a unique l
  
 1. To run the ELFG language generator you will need to have Python installed on your system. 
 2. Create a new folder
-3. Copy past the code (main.py) with the 4 text file provided in the folder
-<img width="217" alt="Screenshot 2024-01-28 at 16 57 54" src="https://github.com/Oto0398/ELFG-LANGUAGE/assets/149970372/6aa8f79c-8f5c-4a92-a481-868be1a2f9ce">
+3. Copy paste the code (main.py) with the 4 text file provided in the folder
+<img width="219" alt="Screenshot 2024-01-29 at 21 11 01" src="https://github.com/Oto0398/ELFG-LANGUAGE/assets/149970372/54a95e43-fe69-4628-8918-e411d95e9d74">
 
 5. Create a new python environment for this folder
 6. Install the needed modules: 
@@ -41,7 +41,7 @@ To use the ELFG Language Generator, follow these steps:
 
 <img width="386" alt="Screenshot 2024-01-28 at 17 15 00" src="https://github.com/Oto0398/ELFG-LANGUAGE/assets/149970372/3b92acdc-67d5-431a-bc6f-912955b69146">
 
-				Version 2.0 of the Code
+				Version
 
 The idea for the second version of the code is the same, except for the fact that it only uses the English text file and simlpy creates a list of words for this one.
 
